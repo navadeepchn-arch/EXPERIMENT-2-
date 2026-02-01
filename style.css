@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* NAVBAR */
+.navbar {
+    background: #1e293b;
+    color: white;
+    padding: 18px 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu span {
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+/* PANEL */
+.panel {
+    background: black;
+    padding: 20px;
+    text-align: center;
+}
+
+/* IFRAME */
+iframe {
+    width: 90%;
+    height: 70vh;
+    border: none;
+    background: white;
+}

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SVG Drawing Tool</title>
+    <link rel="stylesheet" href="drawing.css">
+</head>
+<body>
+
+<h2>SVG Drawing Tool</h2>
+
+<div class="controls">
+    <label>Color:</label>
+    <input type="color" id="colorPicker" value="#000000">
+    <button onclick="undo()">Undo</button>
+</div>
+
+<svg id="svgCanvas" width="80vw" height="60vh"></svg>
+
+<script src="drawing.js"></script>
+</body>
+</html>
