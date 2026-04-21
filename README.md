@@ -26,7 +26,14 @@ The dashboard uses a responsive layout and an iframe to display each experiment 
 ## Demo URL
 [https://25bcc80001-experiment-2.netlify.app/]
 
+## GitHub Repository  
+Add your GitHub repository link here.
+
+https://github.com/navadeepchn-arch/EXPERIMENT-2-
+
 ## How to Run Locally
 1. Clone the repository:  
 ```bash
 git clone https://github.com/navadeepchn-arch/exp2.git
+
+
